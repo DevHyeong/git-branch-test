@@ -5,6 +5,13 @@ public class Person {
     private int age;
     private Country country;
 
+    public Person(){}
+
+    public Person(String name, int age){
+        this.name = name;
+        this.age = age;
+    }
+
     public String getName() {
         return name;
     }

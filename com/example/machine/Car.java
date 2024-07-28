@@ -9,6 +9,10 @@ public class Car {
 
     }
 
+    public void move(Location location){
+        // TODO move location
+    }
+
     public void stop(){
 
     }
