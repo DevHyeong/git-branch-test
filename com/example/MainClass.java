@@ -9,4 +9,9 @@ public class MainClass {
         car.move();
         car.stop();
     }
+
+
+    private Person makePerson(String name, int age){
+        return new Person(name, age);
+    }
 }
