@@ -8,4 +8,8 @@ public class Car {
     public void move(){
 
     }
+
+    public void stop(){
+
+    }
 }
