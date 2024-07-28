@@ -5,7 +5,6 @@ public class Person {
     private int age;
     private Country country;
 
-
     public String getName() {
         return name;
     }
